@@ -60,6 +60,32 @@ Azad et. all [Attention Deeplabv3p](https://www.bioimagecomputing.com/program/se
 ![ISIC 2018](https://github.com/rezazad68/FRCU-Net/blob/main/Figures/results_isic18.png)
 
 
+#### Performance Evalution on the Skin Lesion Segmentation ISIC 2017
+
+will be updated
+
+
+### Segmentation visualization
+![ISIC 2018](https://github.com/rezazad68/FRCU-Net/blob/main/Figures/results_isic17.png)
+
+
+
+#### Performance Evalution on the Skin Lesion Segmentation PH2
+
+will be updated. 
+
+
+### Segmentation visualization
+![ISIC 2018](https://github.com/rezazad68/FRCU-Net/blob/main/Figures/results_ph.png)
+
+
+
+### Segmentation resutls on Lung CT dataset
+![lungct](https://github.com/rezazad68/FRCU-Net/blob/main/Figures/results_lung.png)
+
+### Segmentation results on SegPC2021
+![segpc2021](https://github.com/rezazad68/FRCU-Net/blob/main/Figures/results_segpc.png)
+
 
 
 ### Model weights
