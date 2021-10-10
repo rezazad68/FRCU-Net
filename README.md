@@ -36,7 +36,7 @@ Follow step 3 and 4 for model traing and performance estimation. For ph2 dataset
 
 ## Quick Overview
 ### Diagram of the proposed method
-![Diagram of the proposed Attention mechanism](https://github.com/rezazad68/FRCU-Net/blob/main/Figures/proposed_method.png)
+![Diagram of the proposed Attention mechanism](https://github.com/rezazad68/FRCU-Net/blob/main/Figures/proposed_method2.png)
 
 ### Frequency attention mechanism
 ![Diagram of the proposed Attention mechanism](https://github.com/rezazad68/FRCU-Net/blob/main/Figures/attention.png)
