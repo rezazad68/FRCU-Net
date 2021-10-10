@@ -1,20 +1,10 @@
-# [Deep Frequency Re-calibration U-Net for Medical Image Segmentation]()
+# [Deep Frequency Re-calibration U-Net for Medical Image Segmentation](https://openaccess.thecvf.com/content/ICCV2021W/CVAMD/papers/Azad_Deep_Frequency_Re-Calibration_U-Net_for_Medical_Image_Segmentation_ICCVW_2021_paper.pdf)
 
-
-Code comming soon
-
-#### Please consider starring us, if you found it useful. Thanks
-
-
-# [Bi-Directional ConvLSTM U-Net with Densely Connected Convolutions ](http://openaccess.thecvf.com/content_ICCVW_2019/papers/VRMI/Azad_Bi-Directional_ConvLSTM_U-Net_with_Densley_Connected_Convolutions_ICCVW_2019_paper.pdf)
-
-
-Deep auto-encoder-decoder network for medical image segmentation with state of the art results on skin lesion segmentation, lung segmentation, and retinal blood vessel segmentation. This method applies bidirectional convolutional LSTM layers in U-net structure to non-linearly encode both semantic and high-resolution information with non-linearly technique. Furthermore, it applies densely connected convolution layers to include collective knowledge in representation and boost convergence rate with batch normalization layers. If this code helps with your research please consider citing the following papers:
+Deep frequency re-calibration U-Net (FRCU-Net) for medical image segmentation. This method aims to represent an object in
+terms of frequency to reduce the effect of texture bias, consequntly resultign in a better generalization performance. Following approach implements the idea of Laplacian pyramid in the bottleneck layer of the U-shaped structure and adaptively re-calibrate the frequency representations to encode shape and texture information. The method is evaluated on five datasets ISIC 2017, ISIC 2018, the PH2, lung segmentation, and SegPC 2021 challenge datasets. If this code helps with your research please consider citing the following paper:
 </br>
-> [R. Azad](https://scholar.google.com/citations?hl=en&user=Qb5ildMAAAAJ&view_op=list_works&sortby=pubdate), [M. Asadi](https://scholar.google.com/citations?hl=en&user=8UqpIK8AAAAJ&view_op=list_works&sortby=pubdate), [Mahmood Fathy](https://scholar.google.com/citations?hl=en&user=CUHdgPcAAAAJ&view_op=list_works&sortby=pubdate) and [Sergio Escalera](https://scholar.google.com/citations?hl=en&user=oI6AIkMAAAAJ&view_op=list_works&sortby=pubdate) "Bi-Directional ConvLSTM U-Net with Densely Connected Convolutions ", ICCV, 2019, download [link](https://arxiv.org/pdf/1909.00166.pdf).
 
-> [M. Asadi](https://scholar.google.com/citations?hl=en&user=8UqpIK8AAAAJ&view_op=list_works&sortby=pubdate), [R. Azad](https://scholar.google.com/citations?hl=en&user=Qb5ildMAAAAJ&view_op=list_works&sortby=pubdate), [Mahmood Fathy](https://scholar.google.com/citations?hl=en&user=CUHdgPcAAAAJ&view_op=list_works&sortby=pubdate) and [Sergio Escalera](https://scholar.google.com/citations?hl=en&user=oI6AIkMAAAAJ&view_op=list_works&sortby=pubdate) "Multi-level Context Gating of Embedded Collective Knowledge for Medical Image Segmentation", The first two authors contributed equally. arXiv:2003.05056, 2020, download [link](https://128.84.21.199/pdf/2003.05056.pdf).
-
+> [R. Azad](https://scholar.google.com/citations?hl=en&user=Qb5ildMAAAAJ&view_op=list_works&sortby=pubdate), [Afshin Bozorgpour](https://scholar.google.ae/citations?user=OUZkcNsAAAAJ&hl=vi), [M. Asadi](https://scholar.google.com/citations?hl=en&user=8UqpIK8AAAAJ&view_op=list_works&sortby=pubdate),  [Dorit Merhof](https://scholar.google.de/citations?user=JH5HObAAAAAJ&hl=de) and [Sergio Escalera](https://scholar.google.com/citations?hl=en&user=oI6AIkMAAAAJ&view_op=list_works&sortby=pubdate) "Deep Frequency Re-calibration U-Net for Medical Image Segmentation", ICCV, 2021, download [link](https://openaccess.thecvf.com/content/ICCV2021W/CVAMD/papers/Azad_Deep_Frequency_Re-Calibration_U-Net_for_Medical_Image_Segmentation_ICCVW_2021_paper.pdf).
 
 #### Please consider starring us, if you found it useful. Thanks
 
