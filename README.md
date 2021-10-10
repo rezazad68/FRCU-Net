@@ -36,10 +36,10 @@ Follow step 3 and 4 for model traing and performance estimation. For ph2 dataset
 
 ## Quick Overview
 ### Diagram of the proposed method
-![Diagram of the proposed Attention mechanism](https://github.com/rezazad68/AttentionDeeplabv3p/blob/master/images/aggregation2.png)
+![Diagram of the proposed Attention mechanism](https://github.com/rezazad68/FRCU-Net/blob/main/Figures/proposed_method.png)
 
 ### Frequency attention mechanism
-![Diagram of the proposed Attention mechanism](https://github.com/rezazad68/AttentionDeeplabv3p/blob/master/images/aggregation2.png)
+![Diagram of the proposed Attention mechanism](https://github.com/rezazad68/FRCU-Net/blob/main/Figures/attention.png)
 
 
 
@@ -57,7 +57,7 @@ Azad et. all [Attention Deeplabv3p](https://www.bioimagecomputing.com/program/se
 
 
 ### Segmentation visualization
-![ISIC 2018](https://github.com/rezazad68/AttentionDeeplabv3p/blob/master/images/result.png)
+![ISIC 2018](https://github.com/rezazad68/FRCU-Net/blob/main/Figures/results_isic18.png)
 
 
 
