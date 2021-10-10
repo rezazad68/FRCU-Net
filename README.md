@@ -9,11 +9,7 @@ terms of frequency to reduce the effect of texture bias, consequntly resultign i
 #### Please consider starring us, if you found it useful. Thanks
 
 ## Updates
-- July 20, 2020: SEDU model added to the Skin Lesion segmentation code (inside models.py), now you can use this model for higher performance on skin lesion segmentation, inside the train file call the SEDU_Net_D3 model). 
-- March 5, 2020: An extended version of the network has been released(Complete implemenation for [SKin Lesion Segmentation on ISIC 217](https://challenge.kitware.com/#challenge/583f126bcad3a51cc66c8d9a), [Skin Lesion Segmentation PH2 Dataset](https://www.fc.up.pt/addi/ph2%20database.html) and [cell nuclei]() along with the network implementation will be update soon). 
-- December 4, 2019: Document Image Binarization using BCDU-Net on DIBCO Challenges has been implemented, best performance on DIBCO series [link](https://github.com/rezazad68/BCDUnet_DIBCO)
-- Augest 28, 2019: First release (Complete implemenation for [SKin Lesion Segmentation on ISIC 218](https://challenge2018.isic-archive.com/), [Retina Blood Vessel Segmentation](http://www.isi.uu.nl/Research/Databases/DRIVE/) and [Lung segmentation](https://www.kaggle.com/kmader/finding-lungs-in-ct-data/data) dataset added.)
-- Augest 27, 2019: Paper Accepted in the [ICCV workshop](https://sites.google.com/view/iccv19-vrmi/home?authuser=0]) 2019 (Oral presentation).
+- October 10, 2021: Initial release of the code along with trained weights for Skin lesion segmentation on ISIC 2017, ISIC 2018 and PH2. 
 
 ## Prerequisties and Run
 This code has been implemented in python language using Keras libarary with tensorflow backend and tested in ubuntu OS, though should be compatible with related environment. following Environement and Library needed to run the code:
