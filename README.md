@@ -87,16 +87,6 @@ will be updated.
 ![segpc2021](https://github.com/rezazad68/FRCU-Net/blob/main/Figures/results_segpc.png)
 
 
-
-### Model weights
-You can download the learned weights for each dataset in the following table. 
-
-Dataset |Learned weights
------------- | -------------
-[ISIC 2018](http://www.isi.uu.nl/Research/Databases/DRIVE/) |[Deeplabv3pa]()
-[ISIC 2017](https://challenge.kitware.com/#phase/5abcb19a56357d0139260e53) |[Deeplabv3pa]()
-[Ph2](https://www.kaggle.com/kmader/finding-lungs-in-ct-data/data) | [Deeplabv3pa]()
-
 ### Query
 All implementation done by Reza Azad. For any query please contact us for more information.
 
